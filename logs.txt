@@ -1,0 +1,41 @@
+commit e7389adf9a2412841a565e68b2e93cd00b2ffb86 (HEAD -> master, origin/master)
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 21:00:32 2024 +0200
+
+    Final commit
+
+commit e8c63c24e42af28068ccfe233adf8e40fffee8c8 (origin/bug2, bug2)
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 20:23:41 2024 +0200
+
+    Call method makeBigStringFrom 2
+
+commit 924ad0dcc16860a5e387e5bb36495efb28995fd3
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 20:18:28 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit bd59968a40d0e660ce10c638d60e66026d6f30fb (origin/bug1, bug1)
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 20:21:05 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 2902c756c883b1e1aca54e96c3c27cf5d1584c8b
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 20:16:23 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 3cd964877a4e36a50d3b485fdc4dade9a0c17e26
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 20:13:33 2024 +0200
+
+    Add starter code
+
+commit 441710d0532927c137d2581d3b82aa9c79feca4f
+Author: davormladenovski <dmladenovski79@gmail.com>
+Date:   Tue Apr 2 20:12:29 2024 +0200
+
+    Initial commit

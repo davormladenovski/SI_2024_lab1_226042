@@ -1,0 +1,203 @@
+Одговори на прашањата од првата лабораториска вежба
+
+1. Овој чекор е направен претходно, мојот GitHub профил е: davormladenovski
+
+2. Промената е направена
+
+3.Креиран е remote репозиториум со име: SI_2024_lab1_226042
+
+4.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1>mkdir SI_2024_lab1_226042
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1>cd SI_2024_lab1_226042
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git init
+
+5.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git remote add origin https://github.com/davormladenovski/SI_2024_lab1_226042.git
+
+6.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>notepad README.md
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add .
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git commit -m "Initial commit"
+[master (root-commit) 4b34a30] Initial commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+7.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add .
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git commit -m "Add starter code"
+[master 72b2633] Add starter code
+ 3 files changed, 47 insertions(+)
+ create mode 100644 SILab1Main.java
+ create mode 100644 SILab1_1.java
+ create mode 100644 SILab1_2.java
+
+8.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git push -u origin master
+
+9.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git branch bug1
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git branch bug2
+
+10.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout bug1
+Switched to branch 'bug1'
+
+11.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>start SILab1_1.java
+
+...грешката се поправа...
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add SILab1_1.java
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git commit -m "Fix wrong condition in filterOddLengthStrings"
+
+12.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout bug2
+Switched to branch 'bug2'
+
+13.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>start SILab1_2.java
+
+...грешката се поправа...
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add SILab1_2.java
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git commit -m "Fix wrong condition
+in makeBigStringFrom"
+
+14.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout bug1
+Switched to branch 'bug1'
+
+15.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>start SILab1Main.java
+
+...додавање на методот...
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add SILab1Main.java
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git commit -m "Call method makeBigStringFrom in main class"
+
+16.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout bug2
+Switched to branch 'bug2'
+
+17.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>start SILab1Main.java
+
+...додавање на методот...
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add SILab1Main.java
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git commit -m "Call method makeBigStringFrom in main class"
+
+18.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git push --all origin
+
+19.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+20.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git merge bug1
+Updating 3cd9648..bd59968
+Fast-forward
+ SILab1Main.java | 1 +
+ SILab1_1.java   | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+...овде спојувањето на гранките е направено со Fast forward и немаше проблем при нивно спојување...
+
+21.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git push --all origin
+
+22.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout bug2
+Switched to branch 'bug2'
+
+23.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git rebase master
+Auto-merging SILab1Main.java
+CONFLICT (content): Merge conflict in SILab1Main.java
+error: could not apply de4d28b... Call method makeBigStringFrom in main class
+hint: Resolve all conflicts manually, mark them as resolved with
+hint: "git add/rm <conflicted_files>", then run "git rebase --continue".
+hint: You can instead skip this commit: run "git rebase --skip".
+hint: To abort and get back to the state before "git rebase", run "git rebase --abort".
+Could not apply de4d28b... Call method makeBigStringFrom in main class
+...се случува конфликт поради тоа што веќе постојат измени во класите од претходната гранка кои веќе се споени на master...
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git add SILab1Main.java
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git rebase --continue
+...двете линии код кои беа различни во master и bug гранаката ги оставивме во самиот код со тоа што директно во датотеката беше тоа променето, а по промената продолживме со rebase без да има дополнителни проблеми...
+
+24.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+
+25.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git merge bug2
+Updating bd59968..e8c63c2
+Fast-forward
+ SILab1Main.java | 5 +++++
+ SILab1_2.java   | 2 +-
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+...се случува fastforward поради претходно направениот rebase и решениот конфликт...
+
+26.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git push --all origin
+
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 660 bytes | 220.00 KiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 3 local objects.
+To https://github.com/davormladenovski/SI_2024_lab1_226042.git
+   bd59968..e8c63c2  master -> master
+ ! [rejected]        bug2 -> bug2 (non-fast-forward)
+error: failed to push some refs to 'https://github.com/davormladenovski/SI_2024_lab1_226042.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+27.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git push --force origin bug2
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git push --all origin
+
+Everything up-to-date
+
+28.
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>git log
+
+C:\Users\dmlad\OneDrive\Desktop\FINKI\Семестар 4\Софтверско инженерство\Лаб вежби\Лаб 1\SI_2024_lab1_226042>notepad logs.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
